@@ -55,6 +55,10 @@ p{
     font-size: 18px;
 }
 
+ul li a:hover {
+    color: #3882F6;
+}
+
 img{
     height: 210px;
     width: 427px;
